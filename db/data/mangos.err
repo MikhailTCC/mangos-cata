@@ -1,0 +1,18 @@
+2017-03-10T18:36:21.185531Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2017-03-10T18:36:21.185531Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2017-03-10T18:36:21.191738Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2017-03-10T18:36:24.386140Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2017-03-10T18:36:25.003409Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2017-03-10T18:36:25.150423Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 774d4fc5-05c0-11e7-af8c-00241d7e9c54.
+2017-03-10T18:36:25.217617Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2017-03-10T18:36:25.234619Z 1 [Warning] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2017-03-10T18:36:41.189285Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2017-03-10T18:36:41.189285Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2017-03-10T18:36:41.189285Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2017-03-10T18:36:41.189285Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2017-03-10T18:36:41.189285Z 0 [Note] mysql\bin\mysqld.exe (mysqld 5.7.17-log) starting as process 3524 ...
+2017-03-10T18:45:06.817680Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2017-03-10T18:45:06.817680Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2017-03-10T18:45:06.817680Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2017-03-10T18:45:06.818680Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2017-03-10T18:45:06.818680Z 0 [Note] mysql\bin\mysqld.exe (mysqld 5.7.17-log) starting as process 1884 ...
